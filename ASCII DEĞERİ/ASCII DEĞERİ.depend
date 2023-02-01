@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643818120 source:c:\users\tayro\onedrive\masaüstü\c dersleri\ascii deĞerİ\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
